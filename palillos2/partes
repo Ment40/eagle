@@ -1,0 +1,47 @@
+Partlist
+
+Exported from circuitofinal.sch at 13-11-2014 14:32:32
+
+EAGLE Version 7.1.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value                     Device                    Package                   Library                    Sheet
+
+C1       0.1uF                     C-USC0805                 C0805                     rcl                        1
+C2       0.1uF                     C-USC0805                 C0805                     rcl                        1
+C3       0.1uF                     C-USC0805                 C0805                     rcl                        1
+C4       22pF                      C-USC1206                 C1206                     rcl                        1
+C5       22pF                      C-USC1206                 C1206                     rcl                        1
+C6       10uF                      C-USC1206                 C1206                     rcl                        1
+C7       10uF                      C-USC1206                 C1206                     rcl                        1
+D1       1N5819HW                  1N5819HW                  SOD-123                   iv17                       1
+IC1      UA78M05DCY                UA78M05DCY                SOT223                    linear                     1
+J1       AVR_SPI_PRG_6PTH          AVR_SPI_PRG_6PTH          2X3                       SparkFun-Connectors        1
+JP1      Bateria                   M03JST-SMD                JST-3-SMD                 SparkFun-Connectors        1
+JP2      Sensor                    M03JST-SMD                JST-3-SMD                 SparkFun-Connectors        1
+LED1     7-SEGMENT-4DIGIT-YOUNGSUN 7-SEGMENT-4DIGIT-YOUNGSUN 7-SEGMENT-4DIGIT-YOUNGSUN SparkFun-Displays          1
+Q1       PMBT3906                  TRANSISTOR_PNPPMBT3906    SOT23-3                   SparkFun-DiscreteSemi      1
+Q2       PMBT3906                  TRANSISTOR_PNPPMBT3906    SOT23-3                   SparkFun-DiscreteSemi      1
+Q3       PMBT3906                  TRANSISTOR_PNPPMBT3906    SOT23-3                   SparkFun-DiscreteSemi      1
+Q4       PMBT3906                  TRANSISTOR_PNPPMBT3906    SOT23-3                   SparkFun-DiscreteSemi      1
+R1       10K                       R-US_R0805                R0805                     rcl                        1
+R2       4.7K                      R-US_R1206                R1206                     rcl                        1
+R3       4.7K                      R-US_R1206                R1206                     rcl                        1
+R4       4.7K                      R-US_R1206                R1206                     rcl                        1
+R5                                 R-US_R0805                R0805                     rcl                        1
+R6                                 R-US_R0805                R0805                     rcl                        1
+R7                                 R-US_R0805                R0805                     rcl                        1
+R8                                 R-US_R0805                R0805                     rcl                        1
+R9                                 R-US_R0805                R0805                     rcl                        1
+R10                                R-US_R0805                R0805                     rcl                        1
+R11                                R-US_R0805                R0805                     rcl                        1
+R12      10K                       R-US_R0805                R0805                     rcl                        1
+R13      4.7K                      R-US_R1206                R1206                     rcl                        1
+R14                                R-US_R1206                R1206                     rcl                        1
+R15      160                       R-US_R1206                R1206                     rcl                        1
+S1       SWITCH-MOMENTARY-2PTH     SWITCH-MOMENTARY-2PTH     TACTILE-PTH               SparkFun-Electromechanical 1
+S2                                 SWITCH-SPDTPTH            SWITCH-SPDT               SparkFun-Electromechanical 1
+S3       SWITCH-MOMENTARY-2PTH     SWITCH-MOMENTARY-2PTH     TACTILE-PTH               SparkFun-Electromechanical 1
+U1       ATMEGA328P                ATMEGA328_SMT             TQFP32-08                 SparkFun-DigitalIC         1
+Y1       16Mhz                     CRYSTALHC49US             HC49US                    SparkFun-FreqCtrl          1
